@@ -21,5 +21,7 @@ header-includes:
   - \usepackage{verbatim}
 ---
 
+# Introduction
 
+This is the intro section
 
